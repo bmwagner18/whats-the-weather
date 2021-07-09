@@ -1,0 +1,11 @@
+h1 {
+    border: 2px #eee solid;
+    color: blue;
+    text-shadow: 2px 2px white;
+    text-align: center;
+    padding: 16px;
+}
+body{
+  background: gray;
+  background-image:url("background.jpg")
+}
